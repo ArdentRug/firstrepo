@@ -1,2 +1,2 @@
 # firstrepo
-Hello class 
+print("Hello World")
